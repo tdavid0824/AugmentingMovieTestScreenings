@@ -1,0 +1,1 @@
+MSc thesis bulding a data pipeline to process and analyze physiological data, with the goal of better understanding underlying patterns and relationships between physiological reactions of consumers and movie profitability / perception.
